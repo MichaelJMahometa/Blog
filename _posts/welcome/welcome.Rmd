@@ -4,7 +4,7 @@ description: |
   Welcome to the new blog! This is a transition from WordPress to RStudio's new Radix R Markdown package.
 author:
   - name: Michael J. Mahometa
-    url: index.html
+    url: https://michaeljmahometa.github.io/Blog
     affiliation: The University of Texas at Austin
     affiliation_url: https://stat.utexas.edu/people/consultants
 date: 11-01-2018
