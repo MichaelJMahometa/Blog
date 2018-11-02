@@ -1,14 +1,13 @@
 ---
-title: "Welcome to Michael J. Mahometa"
+title: "Welcome to the new Radix blog"
 description: |
-  Welcome to our new blog, Michael J. Mahometa. We hope you enjoy 
-  reading what we have to say!
+  Welcome to the new blog! This is a transition from WordPress to RStudio's new Radix R Markdown package.
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
-date: 11-02-2018
+  - name: Michael J. Mahometa
+    url: index.html
+    affiliation: The University of Texas at Austin
+    affiliation_url: https://stat.utexas.edu/people/consultants
+date: 11-01-2018
 output:
   radix::radix_article:
     self_contained: false
@@ -22,5 +21,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-
-
+Welcome to the new blog! This is a transition from WordPress to RStudio's new [Radix](https://rstudio.github.io/radix/) R Markdown package.
