@@ -8,6 +8,7 @@ author:
     affiliation: The University of Texas at Austin
     affiliation_url: https://stat.utexas.edu/people/consultants
 date: 11-01-2018
+preview: images/welcome.png
 output:
   radix::radix_article:
     self_contained: false
@@ -21,4 +22,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Welcome to the new blog! This is a transition from WordPress to RStudio's new [Radix](https://rstudio.github.io/radix/) R Markdown package.
+Welcome to the new blog! This is a transition from WordPress to RStudio's new [Radix](https://rstudio.github.io/radix/) R Markdown package. Why? Well, WordPress would sometimes render my R code chunks a little funky---inserting odd characers here and there---and really only "fizable" within the editor. So, we'll try this. 
+
+Right now, the plan is to re-post old items from WordPress. And then, add new material concerning Teaching, Consulting, and Statistics (mostly in `R`). If there's anything you'd like me to touch on, please just ask and I'll see what I can do.
+
+Follow along if you'd like: [<i class="fab fa-twitter-square"></i>](https://twitter.com/mjmahometa)

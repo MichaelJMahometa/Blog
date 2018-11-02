@@ -2,6 +2,7 @@ name: "Blog"
 title: "Michael J. Mahometa"
 description: |
   Michael J. Mahometa
+base_url: https://michaeljmahometa.github.io/Blog/docs/
 output_dir: "docs"
 navbar:
   right:
