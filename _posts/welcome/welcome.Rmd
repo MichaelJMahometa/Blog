@@ -15,14 +15,18 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(echo = TRUE, fig.align = "center")
 
 # Learn more about creating blogs with Radix at:
 # https://rstudio.github.io/radix/blog.html
 
 ```
 
-Welcome to the new blog! This is a transition from WordPress to RStudio's new [Radix](https://rstudio.github.io/radix/) R Markdown package. Why? Well, WordPress would sometimes render my R code chunks a little funky---inserting odd characers here and there---and really only "fizable" within the editor. So, we'll try this. 
+```{r echo=FALSE, out.width='70%', preview=TRUE}
+knitr::include_graphics('../../images/welcome.png')
+```
+
+Welcome to the new blog! This is a transition from WordPress to RStudio's new [Radix](https://rstudio.github.io/radix/) R Markdown package. Why? Well, WordPress would sometimes render my R code chunks a little funky---inserting odd characters here and there---and really only "fixable" within the editor. So, we'll try this. 
 
 Right now, the plan is to re-post old items from WordPress. And then, add new material concerning Teaching, Consulting, and Statistics (mostly in `R`). If there's anything you'd like me to touch on, please just ask and I'll see what I can do.
 
