@@ -1,0 +1,12 @@
+name: "Blog"
+title: "Michael J. Mahometa"
+description: |
+  Michael J. Mahometa
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: radix::radix_article
